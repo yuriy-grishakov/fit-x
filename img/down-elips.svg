@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 622 622" width="622" height="622">
+	<title>img-devices</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #cc3399;stroke-opacity:0.03;stroke-width: 54 } 
+	</style>
+	<g id="img-devices">
+		<path id="down-elips" class="shp0" d="M311 0C482.76 0 622 139.24 622 311C622 482.76 482.76 622 311 622C139.24 622 0 482.76 0 311C0 139.24 139.24 0 311 0Z" />
+	</g>
+</svg>
